@@ -1,5 +1,4 @@
 {
-    "productos": {
         "Guajolotas": [
             {
                 "id": "1",
@@ -102,5 +101,4 @@
                 "price" : "$14 MXN"
             }
         ]
-    }
 }
