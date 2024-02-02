@@ -3,44 +3,50 @@
             {
                 "id": "1",
                 "Title": "Verde",
-                "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870260/verde_pc1gl9.png",
+                "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884273/guajolotas_yg4twc.png",
                 "price": "$25 MXN",
-                "cat": "Guajolotas"
+                "cat": "Guajolotas",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883657/verde_1_iitreu.png"
             },
             {
                 "id": "2",
                 "Title": "Mole",
-                "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870258/mole_pccxfz.png",
+                "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884340/guajolotas_1_vswc7f.png",
                 "price": "$25 MXN",
-                "cat": "Guajolotas"
+                "cat": "Guajolotas",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883665/mole_vhm7xo.png"
             },
             {
                 "id": "3",
                 "Title": "Guayaba",
-                "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870257/guayaba_swoc3b.png",
+                "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884345/guajolotas_2_ao4kiu.png",
                 "price": "$25 MXN",
-                "cat": "Guajolotas"
+                "cat": "Guajolotas",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883690/guayaba_qsuhxd.png"
             },
             {
                 "id": "4",
                 "Title": "Piña",
-                "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870258/pi%C3%B1a_raq0z8.png",
+                "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884351/guajolotas_3_nfl75q.png",
                 "price": "$25 MXN",
-                "cat": "Guajolotas"
+                "cat": "Guajolotas",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883679/pi%C3%B1a_g7w7k5.png"
             },
             {
                 "id": "5",
                 "Title": "Pasas",
-                "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870258/pasas_nyymry.png",
+                "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884357/guajolotas_4_lztbr6.png",
                 "price": "$25 MXN",
-                "cat": "Guajolotas"
+                "cat": "Guajolotas",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883684/pasas_wst2yx.png"
             },
             {
                 "id": "6",
                 "Title": "Rajas",
-                "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870259/rajas_flzwud.png",
+                "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884340/guajolotas_1_vswc7f.png",
                 "price": "$25 MXN",
-                "cat": "Guajolotas"
+                "cat": "Guajolotas",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883673/rajas_dyfwop.png"
             }
         ],
         "Bebidas": [
@@ -79,42 +85,48 @@
                 "Title": "Tamal verde",
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870260/t_verde_vwbkl2.png",
                 "price" : "$14 MXN",
-                "cat": "Tamales"
+                "cat": "Tamales",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883657/verde_1_iitreu.png"
             },
             {
                 "id": "12",
                 "Title": "Tamal de mole",
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870260/t_raja_c0oypb.png",
                 "price" : "$14 MXN",
-                "cat": "Tamales"
+                "cat": "Tamales",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883665/mole_vhm7xo.png"
             },
             {
                 "id": "13",
                 "Title": "Tamal de guayaba",
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870259/t_guayaba_l5idoc.png",
                 "price" : "$14 MXN",
-                "cat": "Tamales"
+                "cat": "Tamales",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883690/guayaba_qsuhxd.png"
             },
             {
                 "id": "14",
                 "Title": "Tamal de piña",
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870259/t_pi%C3%B1a_mmmhwf.png",
                 "price" : "$14 MXN",
-                "cat": "Tamales"
+                "cat": "Tamales",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883679/pi%C3%B1a_g7w7k5.png"
             },
             {
                 "id": "15",
                 "Title": "Tamal de pasas",
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870259/t_pasas_pq9sdq.png",
                 "price" : "$14 MXN",
-                "cat": "Tamales"
+                "cat": "Tamales",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883684/pasas_wst2yx.png"
             },
             {
                 "id": "16",
                 "Title": "Tamal de rajas",
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870260/t_raja_c0oypb.png",
                 "price" : "$14 MXN",
-                "cat": "Tamales"
+                "cat": "Tamales",
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883673/rajas_dyfwop.png"
             }
         ]
 }
