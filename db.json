@@ -63,7 +63,7 @@
                 "price" : "$12 MXN",
                 "cat": "Bebidas",
                 "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/champurrado_zlxrf6.png",
-                "combo" : "Tamales"
+                "combo" : "Guajolotas"
             },
             {
                 "id": "8",
@@ -72,7 +72,7 @@
                 "price" : "$12 MXN",
                 "cat": "Bebidas",
                 "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/arroz_con_leche_cphr0g.png",
-                "combo" : "Tamales"
+                "combo" : "Guajolotas"
             },
             {
                 "id": "9",
@@ -81,7 +81,7 @@
                 "price" : "$12 MXN",
                 "cat": "Bebidas",
                 "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/chocolate_o2nokf.png",
-                "combo" : "Tamales"
+                "combo" : "Guajolotas"
             },
             {
                 "id": "10",
@@ -90,7 +90,7 @@
                 "price" : "$12 MXN",
                 "cat": "Bebidas",
                 "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/cafe_x9abgu.png",
-                "combo" : "Tamales"
+                "combo" : "Guajolotas"
             }
         ],
         "Tamales": [
