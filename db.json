@@ -6,7 +6,8 @@
                 "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884273/guajolotas_yg4twc.png",
                 "price": "$25 MXN",
                 "cat": "Guajolotas",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883657/verde_1_iitreu.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883657/verde_1_iitreu.png",
+                "combo" : "Bebidas"
             },
             {
                 "id": "2",
@@ -14,7 +15,8 @@
                 "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884340/guajolotas_1_vswc7f.png",
                 "price": "$25 MXN",
                 "cat": "Guajolotas",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883665/mole_vhm7xo.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883665/mole_vhm7xo.png",
+                "combo" : "Bebidas"
             },
             {
                 "id": "3",
@@ -22,7 +24,8 @@
                 "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884345/guajolotas_2_ao4kiu.png",
                 "price": "$25 MXN",
                 "cat": "Guajolotas",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883690/guayaba_qsuhxd.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883690/guayaba_qsuhxd.png",
+                "combo" : "Bebidas"
             },
             {
                 "id": "4",
@@ -30,7 +33,8 @@
                 "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884351/guajolotas_3_nfl75q.png",
                 "price": "$25 MXN",
                 "cat": "Guajolotas",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883679/pi%C3%B1a_g7w7k5.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883679/pi%C3%B1a_g7w7k5.png",
+                "combo" : "Bebidas"
             },
             {
                 "id": "5",
@@ -38,7 +42,8 @@
                 "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884357/guajolotas_4_lztbr6.png",
                 "price": "$25 MXN",
                 "cat": "Guajolotas",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883684/pasas_wst2yx.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883684/pasas_wst2yx.png",
+                "combo" : "Bebidas"
             },
             {
                 "id": "6",
@@ -46,7 +51,8 @@
                 "Image": "https://res.cloudinary.com/dtmapxnao/image/upload/v1706884340/guajolotas_1_vswc7f.png",
                 "price": "$25 MXN",
                 "cat": "Guajolotas",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883673/rajas_dyfwop.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883673/rajas_dyfwop.png",
+                "combo" : "Bebidas"
             }
         ],
         "Bebidas": [
@@ -56,7 +62,8 @@
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870257/champurrado_ict4nk.png",
                 "price" : "$12 MXN",
                 "cat": "Bebidas",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/champurrado_zlxrf6.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/champurrado_zlxrf6.png",
+                "combo" : "Tamales"
             },
             {
                 "id": "8",
@@ -64,7 +71,8 @@
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870257/atole_rzh2xa.png",
                 "price" : "$12 MXN",
                 "cat": "Bebidas",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/arroz_con_leche_cphr0g.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/arroz_con_leche_cphr0g.png",
+                "combo" : "Tamales"
             },
             {
                 "id": "9",
@@ -72,7 +80,8 @@
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870257/chocolate_m4zibp.png",
                 "price" : "$12 MXN",
                 "cat": "Bebidas",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/chocolate_o2nokf.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/chocolate_o2nokf.png",
+                "combo" : "Tamales"
             },
             {
                 "id": "10",
@@ -80,7 +89,8 @@
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870257/cafe_vuza3l.png",
                 "price" : "$12 MXN",
                 "cat": "Bebidas",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/cafe_x9abgu.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706903283/cafe_x9abgu.png",
+                "combo" : "Tamales"
             }
         ],
         "Tamales": [
@@ -90,7 +100,8 @@
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870260/t_verde_vwbkl2.png",
                 "price" : "$14 MXN",
                 "cat": "Tamales",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883657/verde_1_iitreu.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883657/verde_1_iitreu.png",
+                "combo" : "Bebidas"
             },
             {
                 "id": "12",
@@ -98,7 +109,8 @@
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870260/t_raja_c0oypb.png",
                 "price" : "$14 MXN",
                 "cat": "Tamales",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883665/mole_vhm7xo.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883665/mole_vhm7xo.png",
+                "combo" : "Bebidas"
             },
             {
                 "id": "13",
@@ -106,7 +118,8 @@
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870259/t_guayaba_l5idoc.png",
                 "price" : "$14 MXN",
                 "cat": "Tamales",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883690/guayaba_qsuhxd.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883690/guayaba_qsuhxd.png",
+                "combo" : "Bebidas"
             },
             {
                 "id": "14",
@@ -114,7 +127,8 @@
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870259/t_pi%C3%B1a_mmmhwf.png",
                 "price" : "$14 MXN",
                 "cat": "Tamales",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883679/pi%C3%B1a_g7w7k5.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883679/pi%C3%B1a_g7w7k5.png",
+                "combo" : "Bebidas"
             },
             {
                 "id": "15",
@@ -122,7 +136,8 @@
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870259/t_pasas_pq9sdq.png",
                 "price" : "$14 MXN",
                 "cat": "Tamales",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883684/pasas_wst2yx.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883684/pasas_wst2yx.png",
+                "combo" : "Bebidas"
             },
             {
                 "id": "16",
@@ -130,7 +145,9 @@
                 "Image": "https://res.cloudinary.com/dkinryznt/image/upload/v1705870260/t_raja_c0oypb.png",
                 "price" : "$14 MXN",
                 "cat": "Tamales",
-                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883673/rajas_dyfwop.png"
+                "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883673/rajas_dyfwop.png",
+                "combo" : "Bebidas"
             }
-        ]
+        ],
+        "Carrito": []
 }
