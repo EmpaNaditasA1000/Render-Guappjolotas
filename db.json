@@ -1,6 +1,5 @@
-{   
-    "Productos" : {
-            "Guajolotas": [
+{
+        "Guajolotas": [
             {
                 "id": "1",
                 "Title": "Verde",
@@ -149,9 +148,7 @@
                 "sabor" : "https://res.cloudinary.com/dtmapxnao/image/upload/v1706883673/rajas_dyfwop.png",
                 "combo" : "Bebidas"
             }
-        ]
-
-    },
+        ],
         "Carrito": [],
         "Usuarios": []
 }
